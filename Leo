@@ -1,0 +1,247 @@
+#EXTM3U
+
+#EXTINF:- 1, CARTOON NETWORK
+http://e10.telerium.uno:2052/free10/137/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDExOjE4OjAwIFBNJmhhc2hfdmFsdWU9eURkbXdKRFpIZ1RZdVViUHVpMU1JQT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 2, HTV
+http://e10.telerium.uno:2052/free10/137/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDExOjE4OjAwIFBNJmhhc2hfdmFsdWU9eURkbXdKRFpIZ1RZdVViUHVpMU1JQT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 3, MTV 
+http://e10.telerium.uno:2052/free10/106/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDExOjI2OjQyIFBNJmhhc2hfdmFsdWU9ZzlwNGhINlEzRG9Xak9QUktDV054dz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 4, MTV HITS
+http://e10.telerium.uno:2052/free10/104/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDExOjI3OjE4IFBNJmhhc2hfdmFsdWU9cXpoQ3oydTFaWk5Ld2ZINGh5S0FwUT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 5, FOX ACTION 
+http://e10.telerium.uno:2052/free10/074/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDExOjM3OjIyIFBNJmhhc2hfdmFsdWU9dmFGZTExVU51VGZVK2ZiT04vSTBJZz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 6, FOX CINEMA
+http://e10.telerium.uno:2052/free10/075/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDExOjM4OjQxIFBNJmhhc2hfdmFsdWU9cm9BamJQdExzeFprTjN5TExFdGNPQT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 7, FOX CLASSIC
+http://e10.telerium.uno:2052/free10/076/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDExOjM5OjEzIFBNJmhhc2hfdmFsdWU9MUgxTk8rTllpbWZ0WHZjZkxjUUZDdz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 8, FOX COMEDY
+http://e10.telerium.uno:2052/free10/077/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDExOjQxOjI4IFBNJmhhc2hfdmFsdWU9MEFtQWlLd3ZBbEg2L2dHRmZqM2M5QT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 9, FOX FAMILY
+http://e10.telerium.uno:2052/free10/078/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDExOjQyOjMzIFBNJmhhc2hfdmFsdWU9R2Zub0JWUTh3eE5GVVJ6MVhNVWp2Zz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 10, FOX MOVIES
+http://e10.telerium.uno:2052/free10/079/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDExOjQzOjQ4IFBNJmhhc2hfdmFsdWU9bC9Qd1daR042VG5zbFFQT3Axak00QT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 11, FOX SERIES
+http://e10.telerium.uno:2052/free10/080/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDExOjQ0OjQzIFBNJmhhc2hfdmFsdWU9RnVFUUpEc3JGZmR3bEZGQWtxb2pqQT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 12, HBO
+http://e10.telerium.uno:2052/free10/080/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDExOjQ0OjQzIFBNJmhhc2hfdmFsdWU9RnVFUUpEc3JGZmR3bEZGQWtxb2pqQT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 13, HBO FAMILY
+http://e10.telerium.uno:2052/free10/080/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDExOjQ0OjQzIFBNJmhhc2hfdmFsdWU9RnVFUUpEc3JGZmR3bEZGQWtxb2pqQT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 14, HBO MUNDI
+http://e10.telerium.uno:2052/free10/080/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDExOjQ0OjQzIFBNJmhhc2hfdmFsdWU9RnVFUUpEc3JGZmR3bEZGQWtxb2pqQT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 15, HBO PLUS
+http://e10.telerium.uno:2052/free10/080/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDExOjQ0OjQzIFBNJmhhc2hfdmFsdWU9RnVFUUpEc3JGZmR3bEZGQWtxb2pqQT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 16, HBO POP
+http://e10.telerium.uno:2052/free10/080/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDExOjQ0OjQzIFBNJmhhc2hfdmFsdWU9RnVFUUpEc3JGZmR3bEZGQWtxb2pqQT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 17, HBO SIGNATURE
+http://e10.telerium.uno:2052/free10/080/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDExOjQ0OjQzIFBNJmhhc2hfdmFsdWU9RnVFUUpEc3JGZmR3bEZGQWtxb2pqQT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 18, HBO SUB
+http://e10.telerium.uno:2052/free10/080/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDExOjQ0OjQzIFBNJmhhc2hfdmFsdWU9RnVFUUpEc3JGZmR3bEZGQWtxb2pqQT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 19, HBO EXTREME
+http://e10.telerium.uno:2052/free10/080/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDExOjQ0OjQzIFBNJmhhc2hfdmFsdWU9RnVFUUpEc3JGZmR3bEZGQWtxb2pqQT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 20, HBO 2
+http://e10.telerium.uno:2052/free10/080/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDExOjQ0OjQzIFBNJmhhc2hfdmFsdWU9RnVFUUpEc3JGZmR3bEZGQWtxb2pqQT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 21, PARAMOUNT
+http://e10.telerium.uno:2052/free10/080/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDExOjQ0OjQzIFBNJmhhc2hfdmFsdWU9RnVFUUpEc3JGZmR3bEZGQWtxb2pqQT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 22, TCM
+http://e10.telerium.uno:2052/free10/080/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDExOjQ0OjQzIFBNJmhhc2hfdmFsdWU9RnVFUUpEc3JGZmR3bEZGQWtxb2pqQT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 23, ANIMAL PLANET
+http://e10.telerium.uno:2052/free10/080/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDExOjQ0OjQzIFBNJmhhc2hfdmFsdWU9RnVFUUpEc3JGZmR3bEZGQWtxb2pqQT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 24, DISCOVERY CHANNEL
+http://e10.telerium.uno:2052/free10/158/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjAxOjI4IEFNJmhhc2hfdmFsdWU9NUNkWENYb2QwUjE4TXJsbGZ3V0tHQT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 25, DISCOVERY H&H 
+http://e10.telerium.uno:2052/free10/158/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjAxOjI4IEFNJmhhc2hfdmFsdWU9NUNkWENYb2QwUjE4TXJsbGZ3V0tHQT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 26, DISCOVERY SCIENCIE
+http://e10.telerium.uno:2052/free10/158/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjAxOjI4IEFNJmhhc2hfdmFsdWU9NUNkWENYb2QwUjE4TXJsbGZ3V0tHQT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 27, DISCOVERY THEATER
+http://e10.telerium.uno:2052/free10/158/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjAxOjI4IEFNJmhhc2hfdmFsdWU9NUNkWENYb2QwUjE4TXJsbGZ3V0tHQT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 28, DISCOVERY TLC
+http://e10.telerium.uno:2052/free10/158/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjAxOjI4IEFNJmhhc2hfdmFsdWU9NUNkWENYb2QwUjE4TXJsbGZ3V0tHQT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 29, DISCOVERY TURBO
+http://e10.telerium.uno:2052/free10/158/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjAxOjI4IEFNJmhhc2hfdmFsdWU9NUNkWENYb2QwUjE4TXJsbGZ3V0tHQT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 30, DISCOVERY WORLD
+http://e10.telerium.uno:2052/free10/158/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjAxOjI4IEFNJmhhc2hfdmFsdWU9NUNkWENYb2QwUjE4TXJsbGZ3V0tHQT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 31, HISTORY
+http://e10.telerium.uno:2052/free10/158/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjAxOjI4IEFNJmhhc2hfdmFsdWU9NUNkWENYb2QwUjE4TXJsbGZ3V0tHQT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 32, HISTORY 2
+http://e10.telerium.uno:2052/free10/158/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjAxOjI4IEFNJmhhc2hfdmFsdWU9NUNkWENYb2QwUjE4TXJsbGZ3V0tHQT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 33, INVESTIGACION DISCOVE.
+http://e10.telerium.uno:2052/free10/158/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjAxOjI4IEFNJmhhc2hfdmFsdWU9NUNkWENYb2QwUjE4TXJsbGZ3V0tHQT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 34, NATGEO
+http://e10.telerium.uno:2052/free10/158/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjAxOjI4IEFNJmhhc2hfdmFsdWU9NUNkWENYb2QwUjE4TXJsbGZ3V0tHQT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 35, NATGEO WILD
+http://e10.telerium.uno:2052/free10/158/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjAxOjI4IEFNJmhhc2hfdmFsdWU9NUNkWENYb2QwUjE4TXJsbGZ3V0tHQT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 36, BOOMERANG
+http://e10.telerium.uno:2052/free10/158/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjAxOjI4IEFNJmhhc2hfdmFsdWU9NUNkWENYb2QwUjE4TXJsbGZ3V0tHQT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 37, DISCOVERY KIDS
+http://e10.telerium.uno:2052/free10/147/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjA4OjM2IEFNJmhhc2hfdmFsdWU9TVl0QnNzbUF4KzAwNkhvRzMvRmE0Zz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 38, DISNEY CHANNEL
+http://e10.telerium.uno:2052/free10/147/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjA4OjM2IEFNJmhhc2hfdmFsdWU9TVl0QnNzbUF4KzAwNkhvRzMvRmE0Zz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 39, DISNEY JUNIOR
+http://e10.telerium.uno:2052/free10/147/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjA4OjM2IEFNJmhhc2hfdmFsdWU9TVl0QnNzbUF4KzAwNkhvRzMvRmE0Zz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 40, DISNEY XD
+http://e10.telerium.uno:2052/free10/147/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjA4OjM2IEFNJmhhc2hfdmFsdWU9TVl0QnNzbUF4KzAwNkhvRzMvRmE0Zz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 41, NAT GEO KIDS
+http://e10.telerium.uno:2052/free10/147/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjA4OjM2IEFNJmhhc2hfdmFsdWU9TVl0QnNzbUF4KzAwNkhvRzMvRmE0Zz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 42 NICKELODEON
+http://e10.telerium.uno:2052/free10/147/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjA4OjM2IEFNJmhhc2hfdmFsdWU9TVl0QnNzbUF4KzAwNkhvRzMvRmE0Zz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 43, NICK 2
+http://e10.telerium.uno:2052/free10/147/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjA4OjM2IEFNJmhhc2hfdmFsdWU9TVl0QnNzbUF4KzAwNkhvRzMvRmE0Zz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 44, NICK JR
+http://e10.telerium.uno:2052/free10/147/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjA4OjM2IEFNJmhhc2hfdmFsdWU9TVl0QnNzbUF4KzAwNkhvRzMvRmE0Zz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 45, NICKTOONS
+http://e10.telerium.uno:2052/free10/147/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjA4OjM2IEFNJmhhc2hfdmFsdWU9TVl0QnNzbUF4KzAwNkhvRzMvRmE0Zz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 46, CINECANAL
+http://e10.telerium.uno:2052/free10/147/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjA4OjM2IEFNJmhhc2hfdmFsdWU9TVl0QnNzbUF4KzAwNkhvRzMvRmE0Zz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 47, CINEMAX
+http://e10.telerium.uno:2052/free10/147/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjA4OjM2IEFNJmhhc2hfdmFsdWU9TVl0QnNzbUF4KzAwNkhvRzMvRmE0Zz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 48, GOLDEN
+http://e10.telerium.uno:2052/free10/147/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjA4OjM2IEFNJmhhc2hfdmFsdWU9TVl0QnNzbUF4KzAwNkhvRzMvRmE0Zz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 49, GOLDEN EDGE
+http://e10.telerium.uno:2052/free10/147/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjA4OjM2IEFNJmhhc2hfdmFsdWU9TVl0QnNzbUF4KzAwNkhvRzMvRmE0Zz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 50, GOLDEN PREMIER
+http://e10.telerium.uno:2052/free10/147/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjA4OjM2IEFNJmhhc2hfdmFsdWU9TVl0QnNzbUF4KzAwNkhvRzMvRmE0Zz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 51, LAS ESTRELLAS
+http://e10.telerium.uno:2052/free10/147/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjA4OjM2IEFNJmhhc2hfdmFsdWU9TVl0QnNzbUF4KzAwNkhvRzMvRmE0Zz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 52, PASIONES
+http://e10.telerium.uno:2052/free10/147/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjA4OjM2IEFNJmhhc2hfdmFsdWU9TVl0QnNzbUF4KzAwNkhvRzMvRmE0Zz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 53, SONY
+http://e10.telerium.uno:2052/free10/147/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjA4OjM2IEFNJmhhc2hfdmFsdWU9TVl0QnNzbUF4KzAwNkhvRzMvRmE0Zz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 54, SPACE
+http://e10.telerium.uno:2052/free10/147/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjA4OjM2IEFNJmhhc2hfdmFsdWU9TVl0QnNzbUF4KzAwNkhvRzMvRmE0Zz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 55, FOX LIFE
+http://e10.telerium.uno:2052/free10/147/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjA4OjM2IEFNJmhhc2hfdmFsdWU9TVl0QnNzbUF4KzAwNkhvRzMvRmE0Zz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 56, STUDIO UNIVERSAL
+http://e10.telerium.uno:2052/free10/147/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjA4OjM2IEFNJmhhc2hfdmFsdWU9TVl0QnNzbUF4KzAwNkhvRzMvRmE0Zz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 57, TELEVISA PUEBLA
+http://e10.telerium.uno:2052/free10/147/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjA4OjM2IEFNJmhhc2hfdmFsdWU9TVl0QnNzbUF4KzAwNkhvRzMvRmE0Zz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 58, TL NOVELAS
+http://e10.telerium.uno:2052/free10/147/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjA4OjM2IEFNJmhhc2hfdmFsdWU9TVl0QnNzbUF4KzAwNkhvRzMvRmE0Zz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 59, TNT
+http://e10.telerium.uno:2052/free10/147/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjA4OjM2IEFNJmhhc2hfdmFsdWU9TVl0QnNzbUF4KzAwNkhvRzMvRmE0Zz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 60, TNT SERIES
+http://e10.telerium.uno:2052/free10/147/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjA4OjM2IEFNJmhhc2hfdmFsdWU9TVl0QnNzbUF4KzAwNkhvRzMvRmE0Zz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 61, TV PUBLICA
+http://e10.telerium.uno:2052/free10/147/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjA4OjM2IEFNJmhhc2hfdmFsdWU9TVl0QnNzbUF4KzAwNkhvRzMvRmE0Zz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 62, UNIVERSAL CHANNEL
+http://e10.telerium.uno:2052/free10/147/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjA4OjM2IEFNJmhhc2hfdmFsdWU9TVl0QnNzbUF4KzAwNkhvRzMvRmE0Zz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 63, WARNER TV
+http://e10.telerium.uno:2052/free10/147/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjA4OjM2IEFNJmhhc2hfdmFsdWU9TVl0QnNzbUF4KzAwNkhvRzMvRmE0Zz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:- 64, ESPN SUR
+http://cdn89.sportsbay.site:2052/live-2/244/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjQzOjQ5IEFNJmhhc2hfdmFsdWU9TlA5N1NPSUdqMTN4VHJQYVMwc3dPZz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=
+
+#EXTINF:- 65, ESPN 2
+http://cdn89.sportsbay.site:2052/live-2/244/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjQzOjQ5IEFNJmhhc2hfdmFsdWU9TlA5N1NPSUdqMTN4VHJQYVMwc3dPZz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=
+
+#EXTINF:- 66, ESPN 2 SUR
+http://cdn89.sportsbay.site:2052/live-2/244/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjQzOjQ5IEFNJmhhc2hfdmFsdWU9TlA5N1NPSUdqMTN4VHJQYVMwc3dPZz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=
+
+#EXTINF:- 67, ESPN 3 SUR
+http://cdn89.sportsbay.site:2052/live-2/267/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjQ3OjIyIEFNJmhhc2hfdmFsdWU9L3Q4cXVIRkJBekRUVnBwOExOREpkdz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=
+
+#EXTINF:- 68, ESPN DEPORTES 
+http://cdn89.sportsbay.site:2052/live-2/267/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjQ3OjIyIEFNJmhhc2hfdmFsdWU9L3Q4cXVIRkJBekRUVnBwOExOREpkdz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=
+
+#EXTINF:- 69, ESPN EXTRA
+http://cdn89.sportsbay.site:2052/live-2/267/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjQ3OjIyIEFNJmhhc2hfdmFsdWU9L3Q4cXVIRkJBekRUVnBwOExOREpkdz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=
+
+#EXTINF:- 70, FOX SPORT SUR
+http://cdn89.sportsbay.site:2052/live-2/267/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjQ3OjIyIEFNJmhhc2hfdmFsdWU9L3Q4cXVIRkJBekRUVnBwOExOREpkdz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=
+
+#EXTINF:- 71, FOX SPORT 2 SUR
+http://cdn89.sportsbay.site:2052/live-2/267/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjQ3OjIyIEFNJmhhc2hfdmFsdWU9L3Q4cXVIRkJBekRUVnBwOExOREpkdz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=
+
+#EXTINF:- 72, FOX SPORT 3 SUR
+http://cdn89.sportsbay.site:2052/live-2/277/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjUzOjQxIEFNJmhhc2hfdmFsdWU9RGJMR1FQVUROb0lMR1VYNVhIVXUvZz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=
+
+#EXTINF:- 73, FOX SPORT DEPORTES
+http://cdn89.sportsbay.site:2052/live-2/274/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjU0OjU4IEFNJmhhc2hfdmFsdWU9V2RqNkhwT21pdEwwUS82UUVYZ3pYZz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=
+
+#EXTINF:- 74, FOX SPORT PREMIUM
+http://cdn89.sportsbay.site:2052/live-2/274/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjU0OjU4IEFNJmhhc2hfdmFsdWU9V2RqNkhwT21pdEwwUS82UUVYZ3pYZz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=
+
+#EXTINF:- 75, DIRECTV SPORT
+http://cdn89.sportsbay.site:2052/live-2/274/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjU0OjU4IEFNJmhhc2hfdmFsdWU9V2RqNkhwT21pdEwwUS82UUVYZ3pYZz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=
+
+#EXTINF:- 76, DIRECTV SPORT 2
+http://cdn89.sportsbay.site:2052/live-2/274/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjU0OjU4IEFNJmhhc2hfdmFsdWU9V2RqNkhwT21pdEwwUS82UUVYZ3pYZz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=
+
+#EXTINF:- 77, DIRECTV SPORT+
+http://cdn89.sportsbay.site:2052/live-2/274/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjU0OjU4IEFNJmhhc2hfdmFsdWU9V2RqNkhwT21pdEwwUS82UUVYZ3pYZz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=
+
+#EXTINF:- 78, TNT SPORT
+http://cdn89.sportsbay.site:2052/live-2/274/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjU0OjU4IEFNJmhhc2hfdmFsdWU9V2RqNkhwT21pdEwwUS82UUVYZ3pYZz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=
+
+#EXTINF:- 78, WWE 
+http://cdn89.sportsbay.site:2052/live-2/274/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjU0OjU4IEFNJmhhc2hfdmFsdWU9V2RqNkhwT21pdEwwUS82UUVYZ3pYZz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=
+
+#EXTINF:- 79, TYC SPORT
+http://cdn89.sportsbay.site:2052/live-2/274/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjU0OjU4IEFNJmhhc2hfdmFsdWU9V2RqNkhwT21pdEwwUS82UUVYZ3pYZz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=
+
+#EXTINF:- 80, REAL MADRID TV
+http://cdn89.sportsbay.site:2052/live-2/274/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDEyOjU0OjU4IEFNJmhhc2hfdmFsdWU9V2RqNkhwT21pdEwwUS82UUVYZ3pYZz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=
+
+#EXTINF:- 81, NFL
+https://stitcher.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=47ca7aaf-2e0a-e8c8-7383-FXl5B3ogkt4g&deviceId=DVQhbzdVAb0L&deviceVersion=75.0.3770.142&appVersion=2.7.3-f002a080d17a7061ac73ac2e68de5e8ca0660c96&deviceDNT=0&userId=&advertisingId=&deviceLat=37.751&deviceLon=-97.822&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
